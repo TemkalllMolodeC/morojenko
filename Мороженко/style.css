@@ -1,0 +1,14 @@
+body {
+	font-family: 'Roboto', sans-serif;
+	background: #849d8f;
+}
+header a {
+	color: #fff;
+	text-decoration: none;
+}
+h1 {
+	color: #fff;
+}
+.prace-ice-cream img {
+	border-radius: 50%;
+}
